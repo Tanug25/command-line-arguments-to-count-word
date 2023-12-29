@@ -26,6 +26,7 @@ file=open(sys.argv[1])
 data=file.read()
 words=data.split()
 print("Total Words:",len(words))
+
 ### OUTPUT:
 
 ![op command](https://github.com/Tanug25/command-line-arguments-to-count-word/assets/138849166/a8046ca3-86d7-4c6f-ba6f-0bbedb72de03)
